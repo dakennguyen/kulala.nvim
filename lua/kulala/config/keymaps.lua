@@ -155,7 +155,7 @@ M.default_kulala_keymaps = {
     end,
   },
   ["Show verbose"] = {
-    "V",
+    "D",
     function()
       require("kulala.ui").show_verbose()
     end,
